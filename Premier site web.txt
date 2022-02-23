@@ -1,0 +1,15 @@
+﻿Info rétro : La première interface de site web
+ 
+Des suites du développement d’un navigateur au Centre européen de recherche nucléaire, Tim Berners-Lee créa le tout premier site web le 20 décembre 1990. Voici maintenant l’essentiel à savoir sur le tout premier site web au monde.
+Le père du premier site web 
+Le père du premier site web au monde est Tim Berners-Lee. Il créa la première interface de site web au monde pendant qu’il était dans ses recherches en tant qu’Ingénieur chercheur au Centre européen de recherche nucléaire (Cern) en Suisse. Cela se passait dans les années 1990, précisément un 20 décembre, date de mise en ligne dudit site.
+Les caractéristiques du premier site web - Objectif
+Il est tout d’abord important de noter que le code source de l’embryon de HTTP a été mis en ligne en simultané avec le premier navigateur : le World Wide Web. Tim Berners-Lee développa celui-ci grâce à l’accompagnement de Robert Caillau, un ingénieur du Cern.
+Hébergé sur un ordinateur NeXT du Cern, le tout premier site dénommé Info.cern.ch était constitué des données ci-après :
+•	De la documentation sur le projet ;
+•	Des informations pour concevoir son propre site.
+Enfin, il faut retenir que l’objectif de Tim Berners-Lee à l’origine était de trouver une solution pour gérer les nombreuses informations scientifiques qui circulent à l’intérieur du Cern. Il trouva ainsi la méthode pour permettre aux chercheurs :
+•	De se retrouver dans la grande quantité d’informations manipulées ;
+•	Et de collaborer à travers des espaces de co-publication. 
+Et, à partir de l’avènement de la technologie serveur de Tim Berners-Lee, des centaines de milliers de sites web ont vu le jour et ne cessent de fleurir.
+
